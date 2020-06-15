@@ -5,19 +5,18 @@
 
 Welcome to mohammad's documentation!
 ====================================
-Fellow Consulting AG
+
+   
 
 .. toctree::
    :maxdepth: 2
-   licenes
-   help 
-   :caption: Guide:
-   
+   :caption: Contents:
 
 
 
 Indices and tables
 ==================
+
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
